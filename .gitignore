@@ -1,9 +1,13 @@
-widsdatathon2025/TRAIN/*.xlsx
+widsdatathon2025/TRAIN_OLD/*.xlsx
+widsdatathon2025/TRAIN_NEW/*.xlsx
 widsdatathon2025/TEST/*.xlsx
-widsdatathon2025/TRAIN/*.csv
+widsdatathon2025/TRAIN_OLD/*.csv
+widsdatathon2025/TRAIN_NEW/*.csv
 widsdatathon2025/TEST/*.csv
-widsdatathon2025/TRAIN/*.xlsx
+widsdatathon2025/TRAIN_OLD/*.xlsx
+widsdatathon2025/TRAIN_NEW/*.xlsx
 widsdatathon2025/*.xlsx
 widsdatathon2025/*.csv
-TRAIN/*.xlsx
+TRAIN_OLD/*.xlsx
 TEST/*.xlsx
+TRAIN_NEW/*.xlsx
