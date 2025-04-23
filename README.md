@@ -7,6 +7,6 @@
 
 #  Team
 <li>Anju Mohan</li>
-<li>Reejima</li>
+<li>Reejima Agrawal</li>
 <li>Inna</li>
 
